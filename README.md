@@ -3,7 +3,7 @@ Synthrise E-Commerce Project 🛍️
 This project is an e-commerce website built with modern technologies such as React, Next.js, Sanity, Stripe, and JavaScript.
 
 👀 Preview
-You can check out the live version of the website here: [insert link]
+You can check out the live version of the website here:(https://synthrise-store.vercel.app)
 
 🚀 Getting Started
 
